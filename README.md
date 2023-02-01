@@ -37,8 +37,8 @@ print(U)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: ARUN KUMAR SUKDEV CHAVAN
-RegisterNumber: 22008531
+Developed by: Shanmugavel R M
+RegisterNumber: 22004339
 */
 ```
 ```python
